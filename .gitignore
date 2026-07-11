@@ -7,5 +7,9 @@
 *.obj
 
 Tasks*/
+!Tasks*/
+Tasks*/*
 !Tasks*/*.cpp
 !Tasks*/*.h
+!Tasks*/*.c
+!Tasks*/*.hpp
